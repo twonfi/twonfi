@@ -22,4 +22,7 @@ Legend:
 | 2024-09-08 | 🟢 | 🟢 ed25519 | mbp-17-3 | 2017 MacBook Pro |  |
 
 ## Vigilant mode
-This account has [vigilant mode](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits) enabled, meaning that if a commit is not signed, it will have a yellow `(Unverified)` badge. Don't trust unverified commits and assume it's not me unless I say otherwise in a signed message.
+This account has [vigilant mode](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits) enabled, meaning that if a commit is not signed, it will have a yellow `(Unverified)` badge.
+
+* **Commits before 2024-10-09: 🟢 Trust** They have been unverified due to username change.
+* **Other commits: 🔴 Don't trust**
