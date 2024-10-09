@@ -12,4 +12,4 @@ My usual programming languages (order not very significant):
 * ~~HTML~~: HTML. Is. Not. A. _Programming_. Language. _(sorry.)_ HTML is a _markup language_, which is what the "ML" part stands for. Also not "machine learning".
 
 ## WRITEME
-The README you can write! Just [open wiki/WRITEME.md](https://github.com/2NumForIce/2NumForIce/wiki/WRITEME) and start editing.
+The README you can write! Just [open wiki/WRITEME.md](https://github.com/twonfi/twonfi/wiki/WRITEME) and start editing.
