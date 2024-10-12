@@ -20,7 +20,7 @@ Legend:
 |            | 🔴  | 🔴 ed25519_sk   | mbp-17       | 2017 MacBook Pro |                                 |
 | 2024-06-19 | 🔴  | 🔴 ed25519_sk   | mbp-17-new   | 2017 MacBook Pro | GPG key on YubiKey              |
 | 2024-09-08 | 🔴  | 🟢 ed25519      | mbp-17-3     | 2017 MacBook Pro |                                 |
-| 2024-10-10 | 🟢  |                 | ed25519      | 2017 MacBook Pro | Generated after username change |
+| 2024-10-10 | 🟢  |                 | mbp-17-4     | 2017 MacBook Pro | Generated after username change |
 | 2024-10-12 | 🔴  | 🟢 ed25519      | mp-13        | 2013 Mac Pro     |                                 |
 
 ## Vigilant mode
