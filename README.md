@@ -3,6 +3,11 @@ I mostly contribute to open-source projects and sometimes squash bugs.
 
 I also do experiments (also known as "unfinished projects"); they are mostly private (such as 2NumForIce/test) but the public sandbox for things that need to be public for whatever reason are in 2NumForIce/pubtest.
 
+## What I'm working on
+(Actual projects, guaranteed to be released.)
+* Blender auto-updater with a lot of regex (couldn't find an actual update API)
+* SteelSeries GameSense library
+
 ## Pluses, sharps, snakes, gems, birds, coffees, scripted coffees... (my languages)
 My usual programming languages (order not very significant):
 * **Python**: It's easy to use, powerful, has an active community, and my first programming language other than Scratch.
