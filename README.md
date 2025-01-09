@@ -24,5 +24,9 @@ My usual programming languages (order not very significant):
 
 English is my preferred human language.
 
-## WRITEME
-The README you can write! Just [open wiki/WRITEME.md](https://github.com/twonfi/twonfi/wiki/WRITEME) and start editing.
+## Contact
+My email address is: (paste into JavaScript console)
+```javascript
+const eml = 'tnm.orug@gw'
+console.log(eml[0]+eml[10]+eml[4]+eml[8]+eml[0]+eml[10]+eml[4]+eml[1]+eml[6]+eml[2]+eml[3]+eml[4]+eml[5]+eml[7])
+```
