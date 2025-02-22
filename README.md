@@ -14,6 +14,15 @@ I also do experiments (also known as "unfinished projects"); they are mostly pri
 * **[Indie Wiki Buddy](https://github.com/KevinPayravi/indie-wiki-buddy)**: A browser extension to help people discover independent / community-friendly alternatives to Fandom, Fextralife and Neoseeker wikis
   * Add wikis and respond to issues
 
+### Other (non-code) free projects
+I love free content!
+
+* Wikis
+  * **Wikimedia**: Wikis like Wikipedia and Wikimedia Commons
+    * Just take a look at [my English Wikipedia user page](https://en.wikipedia.org/wiki/User:2NumForIce)
+  * **NIWA**: Nintendo indie wikis (Bulbapedia, SmashWiki)
+    * Because I hate Fandom™
+
 ## My languages
 My usual programming languages (order not very significant):
 * **Python**: It's easy to use, powerful, has an active community, and my first programming language other than Scratch.
