@@ -43,13 +43,4 @@ English is my preferred human language.
   - Just don't make me buy a new domain just to change my email; my voicemail is scam-filled already, so don't ruin it even more.
 - If it's about a project I'm working on, it's best to leave a comment _in public_. Collaboration works best that way.
 
-My email address is:
-```
-// PASTE THE ENTIRE CODE BLOCK INTO A JAVASCRIPT CONSOLE (anti-spam)
-// (just string concatenation; read over the code)
-// (get one by pressing F12 and clicking the "Console" tab)
-// it might warn you; again, just string concatenation
-
-const eml = 'tnm.orug@gw.0c161712-6e4a-43d6-8f8b-c8f3df27a60c.xyz'
-console.log(eml[0]+eml[10]+eml[4]+eml[8]+eml[0]+eml[10]+eml[4]+eml[1]+eml[6]+eml[2]+eml[3]+eml[4]+eml[5]+eml[7])
-```
+For spam-prevention reasons, email is not listed here. Please see [twonum.org](https://www.twonum.org/#email) (will be available soon).
