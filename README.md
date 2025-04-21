@@ -24,18 +24,28 @@ I love free content!
     * Because I hate Fandom™
 
 ## My languages
-My usual programming languages (order not very significant):
-* **Python**: It's easy to use, powerful, has an active community, and my first programming language other than Scratch.
-* **JavaScript/TypeScript**: They're all [ECMAScripts](https://en.wikipedia.org/wiki/ECMAScript), used a lot on the World Wide Web, and large communities.
-* **Swift**: Getting into Apple app development, as well as being "inspired" by Python, but as a compiled language.
-* **C(++/#)**: Also getting into Windows development.
-* ~~HTML~~: HTML. Is. Not. A. _Programming_. Language. _(sorry.)_ HTML is a _markup language_, which is what the "ML" part stands for. Also not "machine learning".
+- Python
+  - Django
+- C++ (somewhat)
+- HTML/CSS/JavaScript
+  - TypeScript
 
 English is my preferred human language.
 
+### Learning
+- Swift
+- Java
+
 ## Contact
-My email address is: (paste into JavaScript console)
-```javascript
-const eml = 'tnm.orug@gw'
+### Before you get my email address...
+- I am not available for hire; job-related emails will be ignored.
+- Please don't spam (although spammers will ignore this anyway...)
+  - Just don't make me buy a new domain just to change my email; my voicemail is scam-filled already, so don't ruin it even more.
+- If it's about a project I'm working on, it's best to leave a comment _in public_. Collaboration works best that way.
+
+My email address is:
+```
+const eml = 'tnm.orug@gw.pasteintojsconsole.haagendazslover0c161712-6e4a-43d6-8f8b-c8f3df27a60c.xyz'
+//           anti-spam:  ^                ^ and no I don't like Häagen-Dazs
 console.log(eml[0]+eml[10]+eml[4]+eml[8]+eml[0]+eml[10]+eml[4]+eml[1]+eml[6]+eml[2]+eml[3]+eml[4]+eml[5]+eml[7])
 ```
