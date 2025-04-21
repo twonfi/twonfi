@@ -1,4 +1,6 @@
 # Public keys
+Note: I don't regularly update this anymore. GitHub automatically generates https://github.com/twonfi.gpg.
+
 ## GnuPG
 My commits are signed with GnuPG. This is set as my _signing key_ on my main systems.
 
