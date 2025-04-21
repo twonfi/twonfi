@@ -43,7 +43,7 @@ English is my preferred human language.
   - Just don't make me buy a new domain just to change my email; my voicemail is scam-filled already, so don't ruin it even more.
 - If it's about a project I'm working on, it's best to leave a comment _in public_. Collaboration works best that way.
 
-My email address is:
+My email address is: (read the 2nd line)
 ```
 const eml = 'tnm.orug@gw.pasteintojsconsole.haagendazslover0c161712-6e4a-43d6-8f8b-c8f3df27a60c.xyz'
 //           anti-spam:  ^                ^ and no I don't like Häagen-Dazs
