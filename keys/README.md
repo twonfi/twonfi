@@ -24,6 +24,7 @@ Legend:
 | 2024-09-08 | 🔴  | 🟢 ed25519      | mbp-17-3     | 2017 MacBook Pro |                                 |
 | 2024-10-10 | 🟢  |                 | mbp-17-4     | 2017 MacBook Pro | Generated after username change |
 | 2024-10-12 | 🔴  | 🟢 ed25519      | mp-13        | 2013 Mac Pro     |                                 |
+| 2025-07-24 | 🟢  |                 | mbp-17-5     | 2017 MacBook Pro | Generated after email change    |
 
 ## Vigilant mode
 This account has [vigilant mode](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits) enabled, meaning that if a commit is not signed, it will have a yellow `(Unverified)` badge.
