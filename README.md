@@ -5,7 +5,7 @@
  >  A hacker from Vancouver, British Columbia, Canada.  <
 </pre>
 
-[![part of | Hack Club](https://img.shields.io/badge/part_of-Hack_Club-%23ec3750?logo=hackclub)](https://hackclub.com)
+<!--[![part of | Hack Club](https://img.shields.io/badge/part_of-Hack_Club-%23ec3750?logo=hackclub)](https://hackclub.com)-->
 <!-- TODO: Shield for twonum.org -->
 
 <!--TODO:
