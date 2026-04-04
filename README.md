@@ -3,7 +3,22 @@
 # twonfi [(twonum elsewhere)](https://hub.twonum.org/)
 <pre>
  >  A hacker from Vancouver, British Columbia, Canada.  <
+
+aka Celeste
 </pre>
+
+# Seriously, don't use GitHub.
+- Owned by <del>Microsoft</del><ins>Microslop</ins>
+- Proprietary
+  - Ironically hosting open-source on proprietary software...
+- Copilot exists
+  - [Now they're training on your private repos...](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/) Ugh.
+- **Better alternatives exist**
+  - which means that I can switch to something better now and there's no reason to use GitHub anymore.
+
+Right now, I'm choosing another service to host my code on (SourceHut or something Forgejo-based), mirroring to twonum.net servers (for self-hosted backups) and possibly GitHub (because people don't want to switch...? even though you could always just email me a patch). I won't be making any new projects until then.
+
+***
 
 <!--[![part of | Hack Club](https://img.shields.io/badge/part_of-Hack_Club-%23ec3750?logo=hackclub)](https://hackclub.com)-->
 <!-- TODO: Shield for twonum.org -->
