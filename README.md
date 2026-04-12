@@ -7,7 +7,7 @@
 aka Celeste
 </pre>
 
-# Seriously, don't use GitHub.
+# [Seriously, don't use GitHub.](https://sfconservancy.org/GiveUpGitHub/)
 - Owned by <del>Microsoft</del><ins>Microslop</ins>
 - Proprietary
   - Ironically hosting open-source on proprietary software...
@@ -16,7 +16,7 @@ aka Celeste
 - **Better alternatives exist**
   - which means that I can switch to something better now and there's no reason to use GitHub anymore.
 
-Right now, I'm choosing another service to host my code on (SourceHut or something Forgejo-based), mirroring to twonum.net servers (for self-hosted backups) and possibly GitHub (because people don't want to switch...? even though you could always just email me a patch). I won't be making any new projects until then.
+Check out my [Codeberg](https://codeberg.org/twonum) instead. I might even come out with forge.twonum.org.
 
 ***
 
