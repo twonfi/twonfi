@@ -1,4 +1,4 @@
-# twonfi // twonum // Celeste
+# twonum's GitHub
 <pre>
  >  A hacker from Vancouver, British Columbia, Canada.  <
 </pre>
@@ -18,7 +18,7 @@ My code is now being hosted on Codeberg. Check that out for new projects.
 ***
 
 ## Check out [twonum.org](https://www.twonum.org/)
-I don't have time to rice my GitHub profile. Websites are much easier for me.
+I don't have time to rice my GitHub profile. HTML and CSS are the way to go.
 
 ## Other things
 ### Bot user
