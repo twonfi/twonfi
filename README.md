@@ -24,5 +24,7 @@ I don't have time to rice my GitHub profile. HTML and CSS are the way to go.
 ### Bot user
 I own the user @twonfi-bot. This has some permissions over a private repository in my control.
 
+I also own @twonfi-edu, an account used on school and untrusted computers.
+
 ### Canary and Keybase
 My GPG canary is located at https://twonum.org/canary.asc (note the absense of "www"). Keybase is https://keybase.io/twonum (note that this is for account verification only; I do not use Keybase to communicate).
