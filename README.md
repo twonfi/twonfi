@@ -1,8 +1,3 @@
-# twonum's GitHub
-<pre>
- >  A hacker from Vancouver, British Columbia, Canada.  <
-</pre>
-
 # [Don't have untrainable muscles? Don't use GitHub.](https://sfconservancy.org/GiveUpGitHub/)
 * Owned by <del>Microsoft</del> <ins>Microslop</ins>
 * Proprietary
