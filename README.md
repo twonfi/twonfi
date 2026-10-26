@@ -3,17 +3,14 @@
  >  A hacker from Vancouver, British Columbia, Canada.  <
 </pre>
 
-# [Seriously, don't use GitHub.](https://sfconservancy.org/GiveUpGitHub/)
+# [Don't have untrainable muscles? Don't use GitHub.](https://sfconservancy.org/GiveUpGitHub/)
 * Owned by <del>Microsoft</del> <ins>Microslop</ins>
 * Proprietary
   - Ironically hosting open-source on proprietary software...
 * Copilot exists
-  - [Now they're training on your private repos...](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/) Ugh.
-* **Better alternatives exist**
-  - which means that I can switch to something better \*right\* now and there's no reason to use GitHub anymore.
+  - [Now they're training on your private repos...](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 
-## [Codeberg/twonum](https://codeberg.org/twonum)
-My code is now being hosted on Codeberg. Check that out for new projects.
+Migrating from GitHub is a rather hard task. I have a private Git server on CadenceNet that I use often and might make public.
 
 ***
 
