@@ -1,3 +1,6 @@
+# Please see https://0.cady.moe/email for my email
+If you send to the email address [go_to_0.cady.moe/email_-_do_not_send_here_or_blocked@h.dblfloat.com](mailto:go_to_0.cady.moe/email_-_do_not_send_here_or_blocked@h.dblfloat.com), you will (obviously) get blocked.
+
 # [Don't have untrainable muscles? Don't use GitHub.](https://sfconservancy.org/GiveUpGitHub/)
 * Owned by <del>Microsoft</del> <ins>Microslop</ins>
 * Proprietary
