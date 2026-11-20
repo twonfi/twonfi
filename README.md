@@ -6,7 +6,8 @@ If you send to the email address [go_to_0.cady.moe/email_-_do_not_send_here_or_b
 ----
 
 ## My new alchemy lab: [alcremie.twonum.org](https://alcremie.twonum.org/)
-#### You'll find my new coding adventures there instead of [GitHub](https://sfconservancy.org/GiveUpGitHub/).
+### You'll find my new coding adventures there instead of [GitHub](https://sfconservancy.org/GiveUpGitHub/)!
+Soon. I'm still installing Forgejo in the Debian VM.
 
 ----
 
