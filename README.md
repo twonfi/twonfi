@@ -1,11 +1,11 @@
 # Cadence's GitHub
 
-----
-
 ## Please see https://0.cady.moe/email for my email
 If you send to the email address [go_to_0.cady.moe/email_-_do_not_send_here_or_blocked@h.dblfloat.com](mailto:go_to_0.cady.moe/email_-_do_not_send_here_or_blocked@h.dblfloat.com), you will (obviously) get blocked.
 
-# [We really should stop using GitHub](https://sfconservancy.org/GiveUpGitHub/)
+----
+
+## [We really should stop using GitHub](https://sfconservancy.org/GiveUpGitHub/)
 * Owned by <del>Microsoft</del> <ins>Microslop</ins>
 * Proprietary
   - Didn't Microsoft do an "embrace, extend, extinguish" campaign?
