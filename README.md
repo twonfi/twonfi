@@ -5,13 +5,8 @@ If you send to the email address [go_to_0.cady.moe/email_-_do_not_send_here_or_b
 
 ----
 
-## [We really should stop using GitHub](https://sfconservancy.org/GiveUpGitHub/)
-* Owned by <del>Microsoft</del> <ins>Microslop</ins>
-* Proprietary
-  - Didn't Microsoft do an "embrace, extend, extinguish" campaign?
-* Copilot exists
-
-My CadenceNet Git server is now on **https://alchemy.twonum.org/**. You'll find my new code, including twonum.org and DotCadence, there.
+## My new alchemy lab: [alcremie.twonum.org](https://alcremie.twonum.org/)
+#### You'll find my new coding adventures there instead of [GitHub](https://sfconservancy.org/GiveUpGitHub/).
 
 ----
 
