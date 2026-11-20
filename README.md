@@ -11,7 +11,7 @@ If you send to the email address [go_to_0.cady.moe/email_-_do_not_send_here_or_b
   - Didn't Microsoft do an "embrace, extend, extinguish" campaign?
 * Copilot exists
 
-My CadenceNet Git server is now on **https://cascade.twonum.org/**. You'll find my new code, including twonum.org and DotCadence, there.
+My CadenceNet Git server is now on **https://alchemy.twonum.org/**. You'll find my new code, including twonum.org and DotCadence, there.
 
 ----
 
