@@ -1,16 +1,19 @@
-# Please see https://0.cady.moe/email for my email
+# Cadence's GitHub
+
+----
+
+## Please see https://0.cady.moe/email for my email
 If you send to the email address [go_to_0.cady.moe/email_-_do_not_send_here_or_blocked@h.dblfloat.com](mailto:go_to_0.cady.moe/email_-_do_not_send_here_or_blocked@h.dblfloat.com), you will (obviously) get blocked.
 
-# [Don't have untrainable muscles? Don't use GitHub.](https://sfconservancy.org/GiveUpGitHub/)
+# [We really should stop using GitHub](https://sfconservancy.org/GiveUpGitHub/)
 * Owned by <del>Microsoft</del> <ins>Microslop</ins>
 * Proprietary
-  - Ironically hosting open-source on proprietary software...
+  - Didn't Microsoft do an "embrace, extend, extinguish" campaign?
 * Copilot exists
-  - [Now they're training on your private repos...](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 
-Migrating from GitHub is a rather hard task. I have a private Git server on CadenceNet that I use often and might make public.
+My CadenceNet Git server is now on **https://cascade.twonum.org/**. You'll find my new code, including twonum.org and DotCadence, there.
 
-***
+----
 
 ## Check out [twonum.org](https://www.twonum.org/)
 I don't have time to rice my GitHub profile. HTML and CSS are the way to go.
